@@ -23,7 +23,7 @@ O objetivo do sistema é permitir que o usuário **rastreie suas encomendas**, p
 ---
 
 ## 🎨 Prototipação no Figma  
-🔗 [Link para o protótipo no Figma](#)  
+🔗 https://www.figma.com/design/zPCyzrUIQOhU2Pi3rbNGm3/LogiTrack?m=auto&t=t1QnIFZeK2teinzg-1 
 
 ---
 
