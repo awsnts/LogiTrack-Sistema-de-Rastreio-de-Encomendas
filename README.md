@@ -23,12 +23,12 @@ O objetivo do sistema é permitir que o usuário **rastreie suas encomendas**, p
 ---
 
 ## 🎨 Prototipação no Figma  
-🔗 https://www.figma.com/design/zPCyzrUIQOhU2Pi3rbNGm3/LogiTrack?m=auto&t=t1QnIFZeK2teinzg-1 
+🔗 https://www.figma.com/design/zPCyzrUIQOhU2Pi3rbNGm3/LogiTrack?m=auto&t=t1QnIFZeK2teinzg-1(#)
 
 ---
 
 ## 🎨 Design System  
-🔗 [Link para o documento do Design System](#)  
+🔗 https://www.figma.com/design/qoDKFlNbdfDwaeqmrJdaXI/Design-System?m=auto&t=dZPuOGFUTzQUjtOV-6(#) 
 
 ---
 
