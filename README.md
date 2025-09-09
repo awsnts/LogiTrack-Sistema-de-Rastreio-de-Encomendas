@@ -47,7 +47,7 @@ Bibliotecas e ferramentas utilizadas no projeto:
 ---
 
 ## 🌍 Link para o site em produção  
-🔗 [Acesse aqui o ViaTrack no GitHub Pages](#)  
+🔗 [Acesse aqui o LogiTrack no GitHub Pages](#)  
 
 ---
 
@@ -55,7 +55,7 @@ Bibliotecas e ferramentas utilizadas no projeto:
 
 ### RA1 – Layout Responsivo e Framework CSS  
 - [ ] Protótipo das telas no Figma (mobile + desktop).  
-- [ ] Layout responsivo implementado com Tailwind CSS.  
+- [ ] Layout responsivo implementado com Material Design 3.  
 - [ ] Uso de componentes prontos do framework (cards, botões, modais).  
 
 ### RA2 – Formulários e Validações  
